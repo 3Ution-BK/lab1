@@ -1,0 +1,13 @@
+Script started on Mon 13 Mar 2017 09:33:16 PM CST
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami;pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.name=3Ution-BK
+user.email=RusTRifull@gmail.com
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/3Ution-BK/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on Mon 13 Mar 2017 09:34:09 PM CST
