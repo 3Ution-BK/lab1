@@ -1,0 +1,2 @@
+Compile: g++ -o lab1_b lab1_b.cpp
+Execute: ./lab1_b
